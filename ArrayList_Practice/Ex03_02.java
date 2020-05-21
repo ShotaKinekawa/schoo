@@ -87,7 +87,7 @@ public class Ex03_02 {
 			a.add(buf);
 			sum += buf;
 		}
-		System.out.println("入力値の合計が1000を超えました。");
+		System.out.println("入力値の合計が"+ max +"を超えました。");
 		return a;
 	}
 }
